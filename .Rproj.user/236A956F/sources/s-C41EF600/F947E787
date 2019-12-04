@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571127315803.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F947E787",
+    "lastKnownWriteTime" : 4926747022014232624,
+    "last_content_update" : 1571127315803,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "20E19007",
+        "caption" : "Activity_status",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Activity_status&cache_key=20E19007",
+        "displayedObservations" : "55",
+        "environment" : "",
+        "expression" : "Activity_status",
+        "object" : "Activity_status",
+        "preview" : "0",
+        "totalObservations" : "55",
+        "variables" : "12"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

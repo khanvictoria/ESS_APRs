@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571363368100.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "28A8334D",
+    "lastKnownWriteTime" : 3472328296227680304,
+    "last_content_update" : 1571363368100,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "503E1F24",
+        "caption" : "Changes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Changes&cache_key=503E1F24",
+        "displayedObservations" : 55,
+        "environment" : "",
+        "expression" : "Changes",
+        "object" : "Changes",
+        "preview" : 0,
+        "totalObservations" : 55,
+        "variables" : 8
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

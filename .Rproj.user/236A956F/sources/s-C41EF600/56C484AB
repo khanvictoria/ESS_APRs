@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571126762531.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "56C484AB",
+    "lastKnownWriteTime" : 3327632506628391472,
+    "last_content_update" : 1571126762531,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6F596808",
+        "caption" : "X2019_07_08_APR_Dataset",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=X2019_07_08_APR_Dataset&cache_key=6F596808",
+        "displayedObservations" : 55,
+        "environment" : "",
+        "expression" : "X2019_07_08_APR_Dataset",
+        "object" : "X2019_07_08_APR_Dataset",
+        "preview" : 0,
+        "totalObservations" : 55,
+        "variables" : 130
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

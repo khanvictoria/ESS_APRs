@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571126610119.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "66F70C6F",
+    "lastKnownWriteTime" : 1571406685,
+    "last_content_update" : 1571406685186,
+    "path" : "~/ESS_APRs/ESS across category.R",
+    "project_path" : "ESS across category.R",
+    "properties" : {
+        "cursorPosition" : "83,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
